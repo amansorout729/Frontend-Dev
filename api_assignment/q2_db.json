@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Aman",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Riya",
+    "status": "inactive"
+  },
+  {
+    "id": 3,
+    "name": "Kabir",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Neha",
+    "status": "inactive"
+  },
+  {
+    "id": 5,
+    "name": "Sahil",
+    "status": "active"
+  }
+]

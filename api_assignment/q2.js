@@ -1,0 +1,1 @@
+// JS logic for Q2 placeholder

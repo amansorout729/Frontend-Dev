@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Study",
+    "priority": "High",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Gym",
+    "priority": "Medium",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Project",
+    "priority": "High",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Shopping",
+    "priority": "Low",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Call Friend",
+    "priority": "Medium",
+    "completed": true
+  }
+]

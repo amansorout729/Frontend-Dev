@@ -1,0 +1,32 @@
+[
+  {
+    "day": "Monday",
+    "subject": "Math",
+    "faculty": "Dr. A",
+    "time": "9:00 AM"
+  },
+  {
+    "day": "Monday",
+    "subject": "Physics",
+    "faculty": "Dr. B",
+    "time": "11:00 AM"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Chemistry",
+    "faculty": "Dr. C",
+    "time": "10:00 AM"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "English",
+    "faculty": "Dr. D",
+    "time": "1:00 PM"
+  },
+  {
+    "day": "Friday",
+    "subject": "CS",
+    "faculty": "Dr. E",
+    "time": "12:00 PM"
+  }
+]
